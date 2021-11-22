@@ -27,9 +27,4 @@ Students will have the opportunity to grow in a broad curriculum as fast as thei
 
 Students build their own portfolios over the course of the program and work to achieve a Launch certification which we hope will become industry recognized for excellence.
 
-Our primary instruction is done live, in-person, [at our amazing incubator space in Chicago.](../location)
-
----
-## How do we meaasure success?
----
-It's pretty simple. It is the number of students employed after graduation, in their field of study through the Launch program. This can either be directly through Launch, or any of our certified Launch partners.
+Our primary instruction is done live, in-person, at our amazing incubator space in Chicago.
