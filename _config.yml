@@ -28,7 +28,9 @@ navbar-links:
   Ways of Donating: 
     - Corporate Donations: "corporate_donations"
     - Individuals: "individual_donations"
-  About Us: "aboutus"
+  About Us:
+    - Our Values: "values"
+    - Contact Us: "contact_us"
 
 # --- Logo --- #
 

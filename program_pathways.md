@@ -12,9 +12,12 @@ Of course, the goal of the program is NOT to just earn these recognitions. They 
 
 ![](../assets/img/LaunchPathways.drawio.png)
 
-The diagram above shows the progression as student goes through to achieve an iOS Apprentice Certification from Launch.
+The diagram above shows the progression a student goes through to achieve an iOS Apprentice Certification from Launch.
 
-1. Students, when starting the program should have some basic knowledge of block programming. If they don't the student will need to complete `Learn to Code 1` and `Learn to Code 2`from Apple Playgrounds, or equivalent. This is done asynchronously by the student before starting the program.
+1. Students, when starting the program should have some basic knowledge of block programming. If they don't the student will need to complete
+   1. `Learn to Code 1` and
+   2. `Learn to Code 2`from Apple Playgrounds, or equivalent.
+   This is done asynchronously by the student before starting the program.
 2. The main pathway goes from
    1.  `Programming Fundamentals in Swift` to
    2.  `App Dev with SwiftUI` and finally to
