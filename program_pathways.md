@@ -3,12 +3,17 @@ layout: page
 title: Program Pathways
 ---
 
-When going through our program you can start without any understand of a formal programming language, and by the end, the student will have developed, submitted and had an iOS app accepted into the App Store. What you will earn:
-1. Launch **iOS Apprentice Certification**
-2. **Badges** associated with extra programming challenges in Algorithms and Data Structures
-3. Optionally **Endorsements** in key focus areas within iOS
+When going through our program you can start without any understand of a formal programming language, and by the end, the student will have developed, submitted, and had an iOS app accepted into the App Store.
 
-Of course, the goal of the program is NOT to just earn these recognitions. They are a means to an end. These achievements, combined with Launch's work with employers in our community to understand what is involved in achieving these recognitions gives the student a higher probability of employment at the completion of the program.
+---
+### What you will earn
+---
+
+1. A Launch **iOS Apprentice Certification**
+2. **Badges** associated with extra programming challenges in Algorithms and Data Structures
+3. Optional **Endorsements** in key focus areas within iOS
+
+Of course, the goal of the program is NOT to just earn these recognitions. They are a means to an end. These achievements, combined with Launch's work with employers in our community to understand what is involved in achieving these recognitions give the student a higher probability of employment at the completion of the program.
 
 ![](../assets/img/LaunchPathways.drawio.png)
 

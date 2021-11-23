@@ -14,7 +14,7 @@ title: My Website
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Our Mission: "mission"
+  Our Mission: "index"
   The Program: 
     - Philosophy: "program_philosophy"
     - Pathways: "program_pathways"
@@ -54,13 +54,13 @@ social-network-links:
   email: "kevin@launchchicago.io"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
-  github: daattali
-  twitter: daattali
+#  github: daattali
+#  twitter: launch312
 #  patreon: DeanAttali
-  youtube: c/daattali
+#  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-  linkedin: daattali
+#  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
