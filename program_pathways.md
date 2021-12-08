@@ -26,7 +26,7 @@ The diagram above shows the progression a student goes through to achieve an iOS
 2. The main pathway goes from
    1.  `Programming Fundamentals in Swift I` to
    2.  `App Dev with SwiftUI` to
-   3.  `Programming Fundamentals in Swift II
+   3.  `Programming Fundamentals in Swift II`
    4.  `Advanced App Dev with Swift` resulting in submital and acceptance of an app into the Apple App Store.
 3. Along this journey students are expetected to also complete the following activities.
    1. Building their portfolio in Github for prospective employers to view
