@@ -27,7 +27,7 @@ Students will have the opportunity to learn and grow as fast as their **aptitude
 
 Students build their own portfolios over the course of the program and work to achieve a Launch certification which we hope will become industry-recognized for excellence.
 
-Our primary instruction is done live, in-person, [at our amazing incubator space in Chicago.](../location)
+Our primary instruction is done live, in-person, [at our amazing incubator space in Chicago.](./location)
 
 ---
 ## How do we measure success?
