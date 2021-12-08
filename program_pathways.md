@@ -24,9 +24,10 @@ The diagram above shows the progression a student goes through to achieve an iOS
    2. `Learn to Code 2`from Apple Playgrounds, or equivalent.
    This is done asynchronously by the student before starting the program.
 2. The main pathway goes from
-   1.  `Programming Fundamentals in Swift` to
-   2.  `App Dev with SwiftUI` and finally to
-   3.  `Advanced App Dev with Swift` resulting in submital and acceptance of an app into the Apple App Store.
+   1.  `Programming Fundamentals in Swift I` to
+   2.  `App Dev with SwiftUI` to
+   3.  `Programming Fundamentals in Swift II
+   4.  `Advanced App Dev with Swift` resulting in submital and acceptance of an app into the Apple App Store.
 3. Along this journey students are expetected to also complete the following activities.
    1. Building their portfolio in Github for prospective employers to view
    2. Participated in at least 2 internships with companies and have received letters of recommendation from each
