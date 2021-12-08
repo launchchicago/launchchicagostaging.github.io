@@ -4,7 +4,7 @@ title: Corporate Donations
 ---
 
 ---
-### What does your donation fund?
+# What does your donation fund?
 
 ## Equipment
    
@@ -22,4 +22,5 @@ title: Corporate Donations
 
 ### Advantages for your Company / Corporation
 1. You are giving back to your community and helping launch a young adult into a good paying profession that they would not normally have available to them
+
 2. You will be first in line (along with other corporate donors) for access to students that are rising to the top of their cohort for internships and access to employment after their successful completion of the program
