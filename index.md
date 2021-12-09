@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Launch Your Career
 ---
 <br>
