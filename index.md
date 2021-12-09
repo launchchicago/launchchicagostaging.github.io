@@ -2,6 +2,10 @@
 layout: page
 title: Our Mission
 ---
+# Build your career in Mobile Development at Launch
+
+### [How to Apply](./student_application)
+
 
 <div class="boxBorder">
 Launch as many students and adult learners that live in under-resourced communities or are underrepresented into the STEM workforce, while removing barriers to ensure that everyone has an equal opportunity.
