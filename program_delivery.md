@@ -4,7 +4,15 @@ title: Program Delivery
 ---
 
 ---
-The best way to learn to be a software developer is with in-person training and working with other students in a team environment. Although many may believe that software development is a lonely task between the developer and the computer, in this day and age, that could not be farther from the truth. Most development is done in a team environment where different members take on differet components to create a final product. That being said, we understand that this is not a "coding bootcamp" where students can commit to a full-time program.  Because of this, we have attempted to provide the best of both worlds through a combination of asynchronous content followed with in-person, in-class sessions.
+The best way to learn to be a software developer is with in-person training and working with other students in a team environment. However, we understand that as a high school or junior college student, there is little to no time to take another program during the day.
+
+This is why we have developed the `Launch Program`. This program is a combination of 3 primary components.
+
+1. The **Launch Platform App** that runs on an iPad or natively on a Mac which is the primary delivery resource for all the content and tracking of student progress throughout your Launch sequence.
+
+2. **Asynchronous** content including videos, labs, quizzes and other excercises.
+
+3. **Launch Pad** meet-ups each weekend for in-person training, guest speakers, pair programming, working with your mentor, etc.
 
 # Program Delivery
 

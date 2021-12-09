@@ -16,7 +16,7 @@ Launch as many students and adult learners that live in under-resourced communit
 ---
 ## Facts
 ---
-1. Computer Science as a field and profession continues to grow at a staggering rate. Over a million new computer science jobs will be created in the next decade significantly exceeding the number of computer science graduates entering the field.
+1. In 2024, experts expect there will be a surplus of one million open computer science jobs without trained workers to fill them.
 
 2. Computer Science is the #1 ticket to the middle class and is one of the highest paying jobs with an undergraduate degree.
 
