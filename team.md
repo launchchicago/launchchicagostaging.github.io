@@ -13,7 +13,7 @@ I have a BS in Computer Science with a strong digital electornics focus.  I work
 
 I am a Curriculum Designer and Swift Instructional Educator for the Center for Excellence in Computer Science, an iOS development contractor, an Adjunct Instructor at DePaul University and Computer Systems Institute in Computer Science, and the Principal Investigator for a HCI research group at DePaul University led by Dr. Craig Miller. My goal is to increase the retention rate for studying Computer Science at all education levels, reduce the exclusivity and barriers present to practicing Computer Science, and make the field more accessible to all populations.
 
-<img style="float: right; padding: 20px; width: 200px" src="../assets/img/dave2.png">
+<img style="float: right; padding: 20px; width: 200px" src="../assets/img/dave2.jpg">
 **Dave Krawczyk, Senior iOS Developer**
 
 I have a background in entrepreneurship and I believe it shows in my day-to-day work. I am a strong communicator, I like to network, learn my colleagues' strengths, and build strong, collaborative teams. I am always looking for opportunities for improvement and innovation.
