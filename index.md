@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Our Mission
+title: Launch
 ---
-# Build your career in Mobile Development at Launch
+# Launch your career in Mobile Development
 
 ### [How to Apply](./student_application)
 
+## Our Mission
 
 <div class="boxBorder">
 Launch as many students and adult learners that live in under-resourced communities or are underrepresented into the STEM workforce, while removing barriers to ensure that everyone has an equal opportunity.
@@ -16,8 +17,11 @@ Launch as many students and adult learners that live in under-resourced communit
 ## Some Related Facts
 ---
 1. Computer Science as a field and profession continues to grow at a staggering rate. Over a million new computer science jobs will be created in the next decade significantly exceeding the number of computer science graduates entering the field.
+
 2. Computer Science is the #1 ticket to the middle class and is one of the highest paying jobs with an undergraduate degree.
+
 3. Full 4-year degree costs continue to grow, now averaging 200K over 4 years, however, many software development jobs do not require a degree.
+
 4. Many qualified individuals never enter the computer science field because of lack of exposure, educational resources, equipment, ill-equipped schools, etc.
 <br>
 <br>
