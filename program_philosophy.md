@@ -8,7 +8,7 @@ It is our belief that there are many young adults in underserved communities tha
 
 Many of these communities have public schools that are not equipped, either based on teacher training or equipment to teach even the most basic aspects of Computer Science. Additionally, we have lost the concept of vocational education; everything today is focused on college prep. We believe this leaves many young adults without the exposure to opportunities that do not require a 4-year degree.
 
-When our Executive Director was in high school, here in Chicago, he was able to test into attending Lane Tech. At that time, Lane Tech High School was not just a **college prep** school but also had a **strong vocational track**. There were classes in linotype printing, drafting, machining, welding, woodworking, electrical, and automotive. Here students were able to get a flavor of many aspects of vocations they might want to pursue after graduation. Students were free to choose the track they wanted to pursue.
+When our Executive Director was in high school, here in Chicago, he was able to attend Lane Tech High School. At that time, Lane Tech was not just a **college prep** school but also had a **strong vocational track**. There were classes in linotype printing, drafting, machining, welding, woodworking, electrical, and automotive. Here students were able to get a flavor of many aspects of vocations they might want to pursue after graduation. Students were free to choose the track they wanted to pursue.
 
 Launch is all about removing the barriers so that students from underserved communities not only have the opportunity to be exposed to software development but can participate in a program that will give them the skills to work in the field once completed.
 
