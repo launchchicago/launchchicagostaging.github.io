@@ -1,18 +1,17 @@
 ---
 layout: page
-#title: Launch
+title: Launch Your Career
 ---
-# Launch your career in Mobile Development
+<br>
 
 ### [How to Apply](./student_application)
-<br><br>
+<br>
 
 ## Our Mission
 
 <div class="boxBorder">
 Launch as many students and adult learners that live in under-resourced communities or are underrepresented into the STEM workforce, while removing barriers to ensure that everyone has an equal opportunity.
 </div>
-<br>
 
 ---
 ## Facts
@@ -21,7 +20,7 @@ Launch as many students and adult learners that live in under-resourced communit
 
 2. Computer Science is the #1 ticket to the middle class and is one of the highest paying jobs with an undergraduate degree.
 
-3. Full 4-year degree costs continue to grow, now averaging 200K over 4 years, however, many software development jobs do not require a degree.
+3. Full 4-year degree costs continue to grow, some now exceeding 200K over 4 years. However, many software development jobs do not require a degree and mobile development is one of them.
 
 4. Many qualified individuals never enter the computer science field because of lack of exposure, educational resources, equipment, ill-equipped schools, etc.
 <br>

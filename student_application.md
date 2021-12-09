@@ -21,7 +21,7 @@ Your ability to succeed in the Launch program not only requires you to adhere to
 
 1. **Your aptitude** for consuming and using the content. The harsh reality is that software development (aka computer programming) does not necessarily come easy to everyone. Our hope is that you were accepted into our program because you have shown aptitude in related fields that are typically good indicators that you will have the aptitude that is needed. There are no **participation awards** at Launch.  Your awards are based on being successful at achieving objectives; exactly like you will be when you enter the workforce after graduation.
 
-2. **Your commitment** to strong participation in the program. You may have the skills, but if you don't apply them you will not succeed. The Launch program is not designed to be a program that fits all learners.  It is rigorous and requires your commitment to learning and achieving the objectives for you to be successful.
+2. **Your commitment** to strong participation in the program. You may have the skills, but if you don't apply them you will not succeed. The Launch program is not designed to be a program that fits all learners.  It is rigorous, and requires your commitment to learning and achieving the objectives for you to be successful.
 
 ---
 ## Upcoming Deadlines
