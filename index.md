@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Launch
+#title: Launch
 ---
 # Launch your career in Mobile Development
 
 ### [How to Apply](./student_application)
+<br><br>
 
 ## Our Mission
 
@@ -14,7 +15,7 @@ Launch as many students and adult learners that live in under-resourced communit
 <br>
 
 ---
-## Some Related Facts
+## Facts
 ---
 1. Computer Science as a field and profession continues to grow at a staggering rate. Over a million new computer science jobs will be created in the next decade significantly exceeding the number of computer science graduates entering the field.
 
