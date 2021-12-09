@@ -4,9 +4,6 @@ title: Launch Your Career
 ---
 <br>
 
-### [How to Apply](./student_application)
-<br>
-
 ## Our Mission
 
 <div class="boxBorder">
