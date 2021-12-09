@@ -6,7 +6,7 @@ title: Program Delivery
 ---
 The best way to learn to be a software developer is with in-person training and working with other students in a team environment. However, we understand that as a high school or junior college student, there is little to no time to take another program during the day.
 
-This is why we have developed the `Launch Program`. This program consists of 3 primary components.
+This is why we have developed the `Launch Program`. Our program consists of 3 primary components.
 
 1. The **Launch Platform App** that runs on an iPad and natively on a Mac which is the primary delivery resource for all the content and tracking of student progress throughout your Launch sequence.
 

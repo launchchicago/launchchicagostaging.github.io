@@ -2,8 +2,6 @@
 layout: page
 title: Launch Your Career
 ---
-<br>
-
 ## Our Mission
 
 <div class="boxBorder">

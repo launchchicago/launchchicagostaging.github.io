@@ -3,7 +3,7 @@ layout: page
 title: Program Pathways
 ---
 
-When going through our program you can start without any understand of a formal programming language, and by the end, the student will have developed, submitted, and had an iOS app accepted into the App Store. Note our initial program is very iOS focused because that is where our Executive Directors skillset lies.  However, once we solidify this program, our intent is to offer similar programs for Android, Cloud, etc.
+When going through our program you can start without any understanding of a formal programming language, and by the end, you will have developed, submitted, and have an iOS app accepted into the App Store. Note our initial program is very iOS focused because that is where our Executive Directors skillset lies.  However, once we solidify this program, our intent is to offer similar programs for Android, Cloud, etc.
 
 ---
 ### What you will earn
@@ -33,10 +33,12 @@ The diagram above shows the progression a student goes through to achieve an iOS
 3. Along this journey students are expetected to also complete the following activities.
    1. Building their portfolio in Github for prospective employers to view
    2. Participated in at least 1 internship with a company and have received letters of recommendation from each
-   3. Made some contribution to an open source project
+   3. Have made some contribution to an open source project
    4. Earned one badge in both `Algorithms 1` and `Data Structures 1`
+   5. Participated in mentoring other students from previous cohorts
    
-4. Additionally students have the option, but it is not required, to earn special endorsements in areas of concentration such as
+4. Additionally students have the option, but are not required, to earn special endorsements in areas of concentration such as
    1. Augmented Reality with ARKit
    2. Machine Learning with Core ML
    3. Game Development with SpriteKit or SceneKit
+   4. and more
