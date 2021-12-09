@@ -3,7 +3,7 @@ layout: page
 title: Our Team
 ---
 
-<img class="padding" src="../assets/img/Kevin.jpg">
+<img style="float: right; padding: 20px; width: 200px" src="Kevin.jpg"> src="../assets/img/Kevin.jpg">
 **Kevin McQuown, Founder, Executive Director**
 
 I consider myself an effective leader with an acute attention to detail. With a degree in Computer Science combined with a strong Digital Electronics background, I love spending my days architecting and building systems. One minute I'm drawing out schematics or laying out PCB's, the next I'm writing iOS code to interface with the firmware I wrote for the micro-controller on the board I just designed.
