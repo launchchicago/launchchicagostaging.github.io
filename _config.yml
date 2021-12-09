@@ -30,7 +30,8 @@ navbar-links:
     - Corporate Donations: "corporate_donations"
     - Individuals: "individual_donations"
   About Us:
-    - Our Values: "values"
+    - Our Team: "team"
+#    - Our Values: "values"
     - Contact Us: "contact_us"
 
 # --- Logo --- #
