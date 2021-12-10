@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Chicago
-Launch Pad
+title: Our Launch Pad
 ---
 
 ---
