@@ -9,5 +9,7 @@ The Chicago Launch Pad is located on the 5th floor of the magnificent Merchandis
 ![](../assets/img/merchandise_mart.jpg)
 
 <center>
+
 [Launch Pad Virtual Tour](https://chicagoconnectory.com/workspace-vr-tour/)
+
 </center>
