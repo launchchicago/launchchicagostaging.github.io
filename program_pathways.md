@@ -31,11 +31,11 @@ The diagram above shows the progression a student goes through to achieve an iOS
    4.  `Advanced App Dev with Swift` resulting in submital and acceptance of an app into the Apple App Store.
 
 3. Along this journey students are expetected to also complete the following activities.
-   1. Building their portfolio in Github for prospective employers to view
-   2. Participated in at least 1 internship with a company and have received letters of recommendation from each
-   3. Have made some contribution to an open source project
-   4. Earned one badge in both `Algorithms 1` and `Data Structures 1`
-   5. Participated in mentoring other students from previous cohorts
+   1. Building their `Github Portfolio` for prospective employers to view
+   2. Participated in at least 1 `company internship` and have received letters of recommendation from each
+   3. Contribute to an `Open Source Project`
+   4. Earn one badge in both `Algorithms 1` and `Data Structures 1`
+   5. `Mentor other students` in earlier cohorts.
    
 4. Additionally students have the option, but are not required, to earn special endorsements in areas of concentration such as
    1. Augmented Reality with ARKit
