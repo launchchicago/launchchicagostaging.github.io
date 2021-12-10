@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Chicago\nLaunch Pad
+title: Chicago
+Launch Pad
 ---
 
 ---
