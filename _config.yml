@@ -18,7 +18,7 @@ navbar-links:
   The Program: 
     - Philosophy: "program_philosophy"
     - Pathways: "program_pathways"
-    - Cohorts: "program_cohorts"
+#    - Cohorts: "program_cohorts"
     - Delivery: "program_delivery"
     - Launch Platform: "launch_platform"
   How to Apply: 
