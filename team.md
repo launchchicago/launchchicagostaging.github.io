@@ -21,4 +21,4 @@ I am a Curriculum Designer and Swift Instructional Educator for the Center for E
 <img style="float: right; padding:  0px 0px 0px 20px; width: 200px" src="../assets/img/dave2.jpg">
 **Dave Krawczyk, Senior iOS Developer, Launch Mentor and Advisor**
 
-I have a background in entrepreneurship and I believe it shows in my day-to-day work. I am a strong communicator, I like to network, learn my colleagues' strengths, and build strong, collaborative teams. I am always looking for opportunities for improvement and innovation.
+In my ten years as a professional software engineer, I have worked at companies ranging from 4 employees in a closet sized office to a workforce of 150,000 distributed across the globe. These experiences allowed me to contribute my skills to well known apps, lead numerous development teams, found two companies, and help teach about 60 aspiring developers in a mobile development training bootcamp. Many of these new developers went on to secure high-demand development jobs at top tech companies like Apple, Facebook, and Uber. I am excited to continue sharing my skills and experiences to help grow future talent. 
